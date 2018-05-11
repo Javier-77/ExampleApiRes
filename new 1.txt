@@ -1,2 +1,12 @@
 //para instalar librerias npm install
 //para ejecutar el servidor node server.js
+
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Javier-77/ExampleApiRes.git
+git push -u origin master
+
+//Para guardar cambios colocamos en el git bash
+git status
