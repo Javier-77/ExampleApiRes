@@ -1,0 +1,2 @@
+//para instalar librerias npm install
+//para ejecutar el servidor node server.js
